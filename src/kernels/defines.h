@@ -3,7 +3,7 @@
 
 #define GROUP_SIZE   256
 
-#define TILE 256
+#define TILE 512
 #define VECTOR_SIZE 16
 
 #define RASSERT_ENABLED 0 // disabled by default, enable for debug by changing 0 to 1, disable before performance evaluation/profiling/commiting
